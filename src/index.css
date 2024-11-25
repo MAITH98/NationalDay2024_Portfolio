@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "The Seasons";
+  src: url("https://fonts.cdnfonts.com/s/17653/Seasons-Bold.woff")
+    format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Amiri";
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font/dist/woff/Vazir-Bold.woff")
+    format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Amiri";
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font/dist/woff/Vazir-Regular.woff")
+    format("woff");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ddd5ca;
+  font-family: "The Seasons", serif; /* Default font globally */
+}
