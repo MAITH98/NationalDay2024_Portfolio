@@ -2,7 +2,7 @@
 
 This project is a responsive and multilingual website dedicated to celebrating **Oman National Day 2024**. It showcases Oman’s rich history, key achievements, and Vision 2040 progress while providing an engaging and interactive user experience.
 
-Link: https://5lwm3s-3000.csb.app/
+Link: https://om-2024.vercel.app/
 
 ---
 
